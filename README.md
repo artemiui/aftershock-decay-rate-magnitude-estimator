@@ -1,6 +1,4 @@
 <h1>Aftershock Frequency and Magnitude Prediction of Philippine Earthquakes Using Omori’s Law and Bath’s Law</h1>
-
-<h2>Project description</h2>
 Simultaneous identification of the k, c, and p parameters in Omori's Law through the curve fit function in SciPy and the 
 integration of Bath's Law to each derived mainshocks as primary products of this project.  In particular, our project is centered 
 around developing a static predictive model of aftershock magnitude and frequency using the principles of Omori's Law and Bath's 
