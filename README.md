@@ -3,7 +3,7 @@ Simultaneous identification of the k, c, and p parameters in Omori's Law through
 integration of Bath's Law to each derived mainshocks as primary products of this project.  In particular, our study aims 
 to develop a static predictive model of aftershock magnitude and frequency using the principles of Omori's Law and Bath's 
 Law in integration with preprocessed, algorithmically identified mainshocks and aftershocks derived from seismic event data 
-within the <a href="[https://github.com/akash-r34](http://earthquake.science.upd.edu.ph/significant-eqs)">UPRI Citizen Science Seismic Network (CS-UPRI)</a></li> and 
+within the <a href="http://earthquake.science.upd.edu.ph/significant-eqs">UPRI Citizen Science Seismic Network (CS-UPRI)</a></li> and 
 <a href="https://earthquake.usgs.gov/earthquakes/search/">USGS Earthquake Hazards Program (USGS)</a></li> datasets.
 
 <h2>Team Members</h2>
