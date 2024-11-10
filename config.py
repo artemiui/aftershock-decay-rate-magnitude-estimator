@@ -1,0 +1,1 @@
+# Configuration file for constants (e.g., distance thresholds)
