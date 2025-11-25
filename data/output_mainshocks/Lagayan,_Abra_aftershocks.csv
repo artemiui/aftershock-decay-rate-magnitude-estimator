@@ -1,0 +1,8 @@
+mainshock_name,mainshock_time,mainshock_magnitude,aftershock_time,aftershock_magnitude,aftershock_place,aftershock_latitude,aftershock_longitude
+"Lagayan, Abra",2022-10-25 22:59:02,6.4,2022-10-26 01:01:05.468,4.5,"1 km W of Pidigan, Philippines",17.5682,120.5783
+"Lagayan, Abra",2022-10-25 22:59:02,6.4,2022-10-26 04:34:16.956,4.1,"28 km WSW of Conner, Philippines",17.7404,121.0695
+"Lagayan, Abra",2022-10-25 22:59:02,6.4,2022-10-26 09:12:44.497,4.9,"22 km SSE of Padong, Philippines",17.8718,120.8512
+"Lagayan, Abra",2022-10-25 22:59:02,6.4,2022-10-28 11:00:36.608,4.3,"15 km SSW of Kabugao, Philippines",17.8862,121.142
+"Lagayan, Abra",2022-10-25 22:59:02,6.4,2022-11-23 20:47:03.660,4.7,"5 km NE of La Paz, Philippines",17.7145,120.7151
+"Lagayan, Abra",2022-10-25 22:59:02,6.4,2022-11-23 20:48:49.238,4.5,"20 km E of Dolores, Philippines",17.6337,120.9064
+"Lagayan, Abra",2022-10-25 22:59:02,6.4,2022-12-15 11:46:40.723,4.4,"18 km W of Pasil, Philippines",17.3902,120.9627
