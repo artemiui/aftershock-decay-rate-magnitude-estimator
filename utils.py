@@ -1,4 +1,3 @@
-# src/utils.py
 import numpy as np
 
 def calculate_distance(lat1, lon1, lat2, lon2):
