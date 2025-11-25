@@ -3,6 +3,9 @@ Machine learning-based parameter estimation algorithm of aftershock frequencies 
 integration of Bath's Law to each derived mainshocks as primary products of this project.  
 <br>
 
+![Uploading Copy of Copy of Aftershock Frequency and Magnitude Estimation of Philippine Earthquakes Using Omori’s Law and Bath’s Law.png…]()
+
+
 <br>
 In particular, our project is centered around developing a static predictive model of aftershock magnitude and frequency using the principles of Omori's Law and Bath's 
 Law in integration with preprocessed, algorithmically identified mainshocks and aftershocks derived from seismic event data 
